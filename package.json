@@ -13,5 +13,6 @@
 	},
 	"author":"Prince",
 	"description":"This project is about managing packages with NPM"
+	"keywords": ["Learn","to","code"]
 	
 }
